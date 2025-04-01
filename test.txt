@@ -1,0 +1,161 @@
+1.	Explain Classical Water Fall Model with advantages and disadvantage
+The Classical Waterfall Model is a software development model with sequential phases. These phases typically include a Feasibility Study, Requirements gathering and analysis, Design (creating a detailed design document), Development (coding and unit testing), Testing (testing the software as a whole), Deployment (releasing to the production environment), and Maintenance (fixing issues and ensuring ongoing requirements are met).
+Advantages of the Classic Waterfall Model include that it is easy to manage, it works well for small projects, and it has a strong focus on requirements.
+Disadvantages of the Classic Waterfall Model are that it is not flexible, has inefficient customer feedback (feedback is typically at the end), there is no working product until the end, it is not suitable for complex projects, and has limited customer feedback.
+2.	Explain Iterative Water Fall Model with advantages and disadvantage
+The Iterative Waterfall Model is a software development approach that combines the sequential steps of the traditional Waterfall Model with the flexibility of iterative design. It allows for improvements and changes to be made at each stage of the development process, rather than waiting until the end. A key difference from the classical model is that the Iterative Waterfall Model provides feedback paths from every phase to its preceding phases.
+Features of the Iterative Waterfall Model include that it is an extension of the classical waterfall model, it allows for better risk management, more flexibility, and faster development, and customer involvement is encouraged, allowing for more frequent communications and input.
+Advantages of the Iterative Waterfall Model are flexibility, early detection of issues, improved quality, and stakeholder improvement.
+Disadvantages of the Iterative Waterfall Model include increased complexity, lack of clarity, dependency on stakeholder feedback, and difficulty in managing large projects.
+3.	Explain Prototype Model
+The Prototyping Model consists of two main phases: Prototype Development and Iterative Development. Prototype Development focuses on creating and refining the prototype to ensure it meets stakeholder expectations. Iterative Development then follows either the classical or iterative waterfall model.
+The steps of the Prototyping Model are:
+o	Step 1: Requirement Gathering and Analysis: Gathering user expectations for the system.
+o	Step 2: Quick Design: Creating a basic design to provide a quick overview of the requirements.
+o	Step 3: Build a Prototype: Developing an actual prototype based on the design.
+o	Step 4: Initial User Evaluation: Preliminary testing where the customer identifies strengths and weaknesses of the design.
+o	Step 5: Refining Prototype: Improving the prototype based on user feedback and suggestions until the final system is approved.
+o	Step 6: Implement Product and Maintain: Final testing, distribution to production, and regular maintenance to prevent failures.
+Advantages of the Prototyping Model include continuous refinement, stakeholder involvement, early issue identification, and enhanced communication.
+Disadvantages of the Prototyping Model include limited risk identification and insufficient requirements analysis.
+4.	Explain Evolutionary Model
+The Evolutionary development model divides the development cycle into smaller, incremental waterfall models where users gain access to the product at the end of each cycle. Users provide feedback on the product, which is used in the planning stage of the next cycle, and the development team responds by often changing the product, plan, or process. The software product evolves over time. This model breaks down work into smaller chunks, prioritizes them, and delivers them to the customer one by one.
+The main advantage is that the customer's confidence increases as they continuously receive quantifiable goods or services to verify and validate their requirements. The model also allows for changing requirements as all work is broken down into maintainable work chunks.
+Advantages of the Evolutionary Model include adaptability to changing requirements, improved handling of difficult projects, customer involvement, easier error detection, better resource allocation, and improved user satisfaction.
+Dis-Advantages of the Evolutionary Model include higher costs, complex management, incomplete documentation, and dependency on customer feedback. One disadvantage common to other models (which the evolutionary model addresses) is the long duration from project start to solution delivery.
+5.	Explain the Spiral model with advantages and dis advantages
+The Spiral Model is a risk-driven software development life cycle model that combines elements of the waterfall model and the iterative model and provides support for Risk Handling. It was first proposed by Barry Boehm. The project progresses through a number of iterations, resembling a spiral. Each iteration represents a complete software development cycle, including requirements gathering and analysis, design, implementation, testing, and maintenance. The number of phases can vary depending on project risks, and the project manager plays an important role in dynamically determining these phases.
+The phases of the Spiral Model are:
+7.	Objectives Defined: Clarifying project aims, including functional and non-functional requirements.
+8.	Risk Analysis: Identifying and evaluating risks associated with the project.
+9.	Engineering: Developing the software based on the requirements of the current iteration (including design, code, test, integrate).
+10.	Evaluation: Evaluating the software to ensure it meets customer requirements and quality standards (review and plan the next iteration).
+11.	Plan for next iteration: Based on the evaluation, planning the next iteration of the spiral.
+The spiral model can be seen as supporting the Evolutionary model, where each iteration along the spiral is an evolutionary level.
+Advantages of the Spiral Model include:
+o	Risk Handling: Best for projects with many unknown risks due to risk analysis at every phase.
+o	Good for large projects: Recommended for large and complex projects.
+o	Flexibility in Requirements: Change requests can be incorporated accurately at later phases.
+o	Customer Satisfaction: Customers can see early development and become familiar with the system.
+o	Iterative and Incremental Approach: Allows for flexibility and adaptability.
+o	Emphasis on Risk Management: Minimizes the impact of uncertainty and risk.
+o	Improved Communication: Regular evaluations and reviews improve communication.
+o	Improved Quality: Multiple iterations can lead to higher quality and reliability.
+Disadvantages of the Spiral Model include:
+o	Complex: More complex than other SDLC models.
+o	Expensive: Not suitable for small projects due to its cost.
+o	Difficulty in time management: Unknown number of phases at the start makes time estimation difficult.
+o	Complexity: Involves multiple iterations.
+o	Time-Consuming: Requires multiple evaluations and reviews.
+o	Resource Intensive: Requires significant investment in planning, risk analysis, and evaluations.
+The Spiral Model is best used when a project is vast, frequent releases are necessary, creating a prototype is appropriate, evaluating risks and costs is crucial, risk is moderate to high, requirements are complicated and ambiguous, modifications are likely at any moment, and long-term commitment is impractical due to shifting economic priorities.
+6.	What are the agile principles of agile software development
+The 12 Agile Principles are:
+26.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+27.	Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+28.	Deliver working software frequently, with a preference to the shorter timescale (e.g., to weeks rather than months).
+29.	Business people and developers must work together daily throughout the project.
+30.	Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+31.	The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+32.	Working software is the primary measure of progress.
+33.	Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+34.	Continuous attention to technical excellence and good design enhances agility.
+35.	Simplicity--the art of maximizing the amount of work not done--is essential.
+36.	The best architectures, requirements, and designs emerge from self-organizing teams.
+37.	At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+7.	Explain SCRUM ?
+Scrum is a lightweight, iterative, and incremental agile software development framework that focuses on collaboration, flexibility, and delivering high-quality working software. It involves specific roles, events, and artifacts to manage the development process.
+The key Scrum Roles are:
+o	Product Owner: Responsible for creating and maintaining a prioritized list of features and requirements called the product backlog.
+o	Scrum Master: Ensures the team follows the Scrum framework, removes obstacles, and helps the team improve.
+o	Development team: A self-organized and cross-functional team that plans its work, discusses progress, develops software during sprints, demonstrates work, and reflects on their process.
+The core Scrum Events are:
+o	Sprint: A time-boxed period (typically 2-3 weeks) during which the development team works to complete a set of items from the product backlog.
+o	Sprint Planning: The team plans the work that will be completed during each sprint.
+o	Daily Stand-up: A short daily meeting where team members discuss what they did yesterday, what they will do today, and any obstacles.
+o	Sprint Review: A meeting to demonstrate the working software to stakeholders.
+o	Sprint Retrospective: A meeting at the end of each sprint to identify areas for improvement and create a plan for the next sprint.
+During a sprint, the development team works on the sprint backlog, which is a subset of the product backlog committed to be completed during that sprint. The development team is self-organized and has all the necessary skills to complete the sprint backlog items.
+8.	What are the stages in Agile Process Model
+The stages in the Agile Process Model include:
+o	Project Planning: Team and stakeholders collaborate to establish a high-level understanding of the project scope and desired outcomes.
+o	Project Backlog Creation: The product owner creates a list of features, enhancements, and bug fixes called the product backlog.
+o	Sprint Planning: The team selects items from the product backlog to work on during the next sprint, forming the sprint backlog.
+o	Sprint Execution: The development team works on the tasks in the sprint backlog, developing and testing incrementally. They often hold daily stand-up meetings.
+o	Demo, Review and Feedback (Sprint Review): The team demonstrates completed work to the product owner and stakeholders to receive feedback.
+o	Sprint Retrospective: The team discusses the sprint's successes and challenges to identify areas for improvement.
+o	Update the Product Backlog: The product owner updates the product backlog based on feedback and progress.
+o	Deployment: Continuous deployment is a key aspect of the agile process.
+o	Repeat the Process: The team moves to the next sprint, starting from sprint planning, and continues until the project is complete.
+9.	Explain Requirement Analysis and Specification
+The goal of the Requirement Analysis and Specification phase is to clearly understand the customer requirements and organize them into a Software Requirement Specification Document.
+The Activities in Requirement Analysis and Specification include:
+o	Requirement Gathering: Collecting information about stakeholders' needs and expectations using techniques like interviews, surveys, focus groups, observation, prototyping, document analysis, brainstorming, task analysis, scenario analysis, and form analysis.
+o	Requirement Classification: Categorizing requirements, often into functional and non-functional requirements.
+o	Requirement Prioritization: Determining the relative importance of various requirements.
+o	Requirement Negotiation: Resolving conflicts among stakeholders regarding requirements.
+o	Requirement Analysis: Analyzing the gathered requirements to ensure they are clear, consistent, and feasible.
+o	Requirement Documentation: Documenting the requirements in a clear and organized manner, often in a Software Requirement Specification (SRS) document.
+Requirement Classification can be done using methods like Natural Language, Use Cases (describing interactions between the system and users), User Stories (short descriptions from an end-user perspective), and Flow charts or Activity diagrams.
+Requirement Negotiation is important for resolving conflicts early in development to avoid costly rework and to build trust and collaboration among stakeholders.
+10.	Explain Functional Requirements
+Functional Requirements describe what the system should do, i.e., the specific functionality or tasks. They are represented as input to be given to the system, the operation performed, and the output expected. These are the requirements stated by the user that can be directly seen in the final product, unlike non-functional requirements. They focus on the behavior and features of the system. Examples include user authentication, data input/output, and transaction processing. Functional requirements are easy to measure in terms of outputs or results and drive the core design and functionality of the system. They are directly related to user and business requirements and are typically documented in use cases and functional specifications. Functional requirements can be tested through functional testing like unit or integration tests. They determine what the system must do to meet user needs. An example in an online banking system is that "Users should be able to log in with their username and password".
+11.	Explain Extreme Programming
+Extreme Programming (XP) is an agile software development methodology that emphasizes teamwork, communication, and rapid feedback.
+The Key Principles of XP are Communication, Feedback, Respect, Simplicity, and Courage.
+Key features of XP include Frequent Releases, Pair Programming, Continuous Integration, and Test-driven development.
+The XP Key Processes include:
+o	Pair Programming: Two developers work together on a single computer, one writing code and the other reviewing, with frequent role switching.
+o	Test-driven Development: Developers write automated tests before writing the code. The process involves writing a failing test, then writing code to make the test pass.
+o	Continuous Integration: New code is integrated into the main codebase frequently to ensure it works well with existing code and reduce integration issues.
+o	Frequent Releases: Software is released to customers frequently (every few weeks) to incorporate customer feedback into the development process.
+The Planning process in XP is based on customer requirements, leading to a release plan outlining which requirements will be delivered in each release. This involves listening and requirement gathering, user story creation, story assessment and cost estimation, story prioritization, release planning, iteration or sprint planning, project velocity computation, and story modification.
+XP Process Design encourages using CRC cards (Class-Repository-Collaboration card) to identify collaborations between objects.
+In Coding, developers work in small groups using test-driven development.
+Testing includes acceptance tests (also known as customer tests) to verify customer requirements.
+12.	Explain Kanban
+Kanban is an agile methodology that involves visualizing workflow, limiting work in progress, and continuously improving the development process. Each work item is represented by a card that moves through a visual board with columns representing different stages of the workflow.
+Key practices of Kanban include:
+o	Visualize Workflow: Making the flow of work transparent.
+o	Limiting work in progress (WIP): Restricting the number of tasks in each stage to improve focus and flow.
+o	Managing workflow to reduce waste: Identifying and eliminating bottlenecks and inefficiencies.
+o	Making process policies explicit: Clearly defining the rules and guidelines for the process.
+o	Focusing on continuous improvement: Regularly reviewing and refining the process.
+o	Collaborative process Changes: Involving the team in making improvements to the process.
+13.	Explain Feasibility Study
+A feasibility study is an initial assessment conducted to evaluate the practicality and potential success of a proposed project, system, or business idea. It helps decision-makers determine if a project is worth pursuing by considering factors such as technical, economic, legal, and scheduling feasibility.
+The Importance of a Feasibility Study includes:
+o	Prioritize Projects: Helps organizations choose between multiple projects with limited resources.
+o	Minimize Risk: Identifies potential risks and challenges early in the development process.
+o	Optimize Resource Allocation: Ensures resources are allocated to feasible and beneficial projects.
+o	Build Stakeholder Confidence: Demonstrates that the project has been evaluated, increasing confidence in its potential success.
+The Steps in Conducting a Feasibility Study are:
+o	Define The Project Scope: Clearly outlining the project's objectives, deliverables, and boundaries.
+o	Identify Information Requirements: Determining the data needed to assess feasibility in various areas.
+o	Collect Information: Gathering data from internal stakeholders, external experts, and industry research.
+o	Analyse Information: Assessing the project's feasibility in each area and identifying risks and challenges.
+o	Prepare the Feasibility Study Report: Documenting the findings, recommendations, budget, and schedule.
+The main Types of Feasibility Studies are:
+o	Technical Feasibility: Analyzes the current and required hardware, software, and technical team skills and capabilities.
+o	Operational Feasibility: Assesses how easily the product will be to operate and maintain after deployment and its usability.
+o	Economic Feasibility: Analyzes the costs and benefits of the project, including development, operational, and financial aspects.
+o	Legal Feasibility: Examines the project from a legal perspective, including potential barriers, data protection, and licensing.
+o	Schedule Feasibility: Analyzes the project timelines and deadlines to determine if the project can be completed on time.
+14.	What is Requirement Prioritization need and importance?
+Requirement prioritization is the process of determining the relative importance of various requirements identified during the requirement classification stage. It helps the development team allocate resources, time, and effort effectively by focusing on the most critical and valuable features first.
+The Need or Importance of Requirement Prioritization includes:
+o	Resource Management: Ensures that the most important requirements are addressed with the available resources.
+o	Stakeholder satisfaction: Delivers the most valuable features to stakeholders early on, increasing their satisfaction.
+o	Risk Management: Addressing critical requirements first can mitigate higher risks associated with core functionalities.
+o	Scope Management: Helps manage the increasing number of features or functionalities over time.
+o	Incremental Development: Aligns with incremental and iterative development methodologies by delivering functional increments.
+Requirements can be prioritized as Critical, High-Priority, Medium Priority, and Low Priority. Another method is the MoSCoW Method:
+o	Must Have (M): Critical for the system to function properly; project is a failure if not met.
+o	Should Have (S): Important but not critical; the system can function without them but should be implemented if resources permit.
+o	Could Have (C): Lower priority enhancements or features that do not affect core functionality.
+o	Won't Have (W): May be considered for future updates without impacting the project's current success.
+An example of applying the MoSCoW method to an online food delivery application's requirements is provided in the source.
+15.	Explain Non Functional Requirements.
+Non-functional requirements are the quality constraints that the system must satisfy according to the project contract. They describe how the system should perform, focusing on system attributes or quality. They are also called non-behavioral requirements and deal with issues like Portability, Security, Maintainability, Reliability, Scalability, Performance, Reusability, and Flexibility. The priority and extent to which these factors are implemented vary from project to project. They focus on the performance, usability, and other quality attributes of the system. Examples include scalability, security, response time, reliability, and maintainability. Non-functional requirements are more difficult to measure, often assessed using benchmarks or Service Level Agreements (SLAs), and they affect the architecture and overall performance of the system. They focus on user experience and system performance and are documented through performance criteria and technical specifications. Non-functional requirements are evaluated through performance testing, security testing, and usability testing and depend on how well the system performs the required tasks. An example in an online banking system is that "The system should respond to user actions in less than 2 seconds".
+Balancing both functional and non-functional requirements is essential because it improves user experience, enhances system performance, prevents bottlenecks and failures, and supports system evolution by making future updates and scaling easier. Common challenges in defining these requirements include changing requirements, difficulty in prioritization (often overshadowing non-functional needs), measuring non-functional requirements, and overlapping or conflicting requirements (e.g., security vs. performance).
+
